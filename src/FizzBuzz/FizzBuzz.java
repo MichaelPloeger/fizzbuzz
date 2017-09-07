@@ -22,7 +22,7 @@ public class FizzBuzz {
                     uitslag = "Buzz";
                 }
                 else if(i % getal1 == 0){
-                    uitslag = "Fizz";
+                    uitslag = "Fizzy";
                 }
                 if(uitslag == ""){
                     System.out.println(i);
